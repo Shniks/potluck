@@ -14,8 +14,54 @@
           null,
           null
         ]
+      },
+      "/Users/lihkin/coding/ruby/practice/potluck/test/potluck_test.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/lihkin/coding/ruby/practice/potluck/lib/potluck.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1658197025
+    "timestamp": 1658197273
   }
 }
