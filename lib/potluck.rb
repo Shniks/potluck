@@ -15,9 +15,7 @@ class Potluck
   end
 
   def get_all_from_category(category)
-    dishes.find_all do |dish|
-      category == dish.category
-    end
+    dishes.find_all { |dish| category == dish.category }
   end
 
   def categories
