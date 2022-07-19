@@ -76,6 +76,8 @@ class PotluckTest < Minitest::Test
 
     assert_equal result, potluck.menu
     assert_equal 50.0, potluck.ratio(:appetizer)
+    assert_equal 16.7, potluck.ratio(:dessert)
+    assert_equal 33.3, potluck.ratio(:entre)
   end
 
 end
